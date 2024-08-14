@@ -1,0 +1,18 @@
+export const categories = [
+    "All",
+    "Javascript",
+    "Typescript",
+    "React",
+    "Next.js",
+    "Tailwind",
+    "CSS",
+    "HTML",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "SQL",
+    "GraphQL",
+    "PHP",
+    "Laravel",
+    "Docker",
+]
